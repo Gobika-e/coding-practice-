@@ -1,20 +1,32 @@
-My Coding Practice
+My Coding Practice 🚀
 
-Hi! I'm a student learning programming and problem-solving.
+Welcome to my coding practice repository!
 
-Languages
+Programming Languages
 
 - C
 - Python
 - Java
 
+Projects
+
+1. Hello World
+
+A simple C program to display Hello, World!
+
+2. Student Marks Analyzer
+
+A C program that calculates:
+
+- Total marks
+- Average marks
+- Pass or Fail status
+- Grade based on average
+
 Goals
 
-- Practice coding problems regularly
-- Improve logical thinking
-- Learn Data Structures and Algorithms
-- Build projects and prepare for internships
+- Improve problem-solving skills
+- Practice Data Structures and Algorithms
+- Build real-world projects
 
-Progress
-
-I am learning step by step and uploading my practice programs to GitHub.
+I am continuously learning and improving my programming skills.
